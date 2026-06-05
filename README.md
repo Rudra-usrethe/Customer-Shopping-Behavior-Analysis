@@ -1,6 +1,6 @@
-# 🛒 Customer Shopping Behavior Analysis
+Customer Shopping Behavior Analysis
 
-## 📌 Project Overview
+ Project Overview
 
 This end-to-end Data Analytics project analyzes customer shopping behavior using **Python (Pandas)**, **SQL**, and **Power BI**. The objective is to uncover customer purchasing patterns, product preferences, revenue trends, and subscription behavior to support data-driven business decisions.
 
@@ -8,7 +8,7 @@ The dataset contains **3,900 customer transactions** across multiple product cat
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Understand customer purchasing behavior
 - Identify high-value customer segments
@@ -19,7 +19,7 @@ The dataset contains **3,900 customer transactions** across multiple product cat
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |--------|---------|
@@ -32,7 +32,7 @@ The dataset contains **3,900 customer transactions** across multiple product cat
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 ### Dataset Summary
 - Total Records: **3,900**
@@ -57,33 +57,33 @@ The dataset contains **3,900 customer transactions** across multiple product cat
 
 ---
 
-## 🧹 Data Cleaning & Preparation (Python)
+##  Data Cleaning & Preparation (Python)
 
 ### Tasks Performed
 
-✔️ Imported and explored the dataset
+- Imported and explored the dataset
 
-✔️ Checked data structure using:
+- Checked data structure using:
 ```python
 df.info()
 df.describe()
 ```
 
-✔️ Handled missing values in Review Rating
+- Handled missing values in Review Rating
 
-✔️ Standardized column names
+- Standardized column names
 
-✔️ Created new features:
+* Created new features:
 - Age Group
 - Purchase Frequency Days
 
-✔️ Removed redundant columns
+* Removed redundant columns
 
-✔️ Exported cleaned dataset to SQL Database
+* Exported cleaned dataset to SQL Database
 
 ---
 
-## 🐍 Python Libraries Used
+##  Python Libraries Used
 
 ```python
 import pandas as pd
@@ -95,7 +95,7 @@ from sqlalchemy import create_engine
 
 ---
 
-## 🗄️ SQL Analysis
+##  SQL Analysis
 
 ### Business Questions Solved
 
@@ -135,7 +135,7 @@ Measured revenue contribution across age segments.
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 ### Dashboard Features
 
@@ -149,7 +149,7 @@ Measured revenue contribution across age segments.
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 ### Customer Behavior
 - Loyal customers contribute significantly to revenue.
@@ -171,7 +171,7 @@ Measured revenue contribution across age segments.
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 ### Increase Subscription Adoption
 Offer exclusive benefits and rewards for subscribers.
@@ -190,7 +190,7 @@ Focus campaigns on the most profitable customer groups.
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 (Add Power BI Dashboard Screenshots Here)
 
@@ -202,7 +202,7 @@ Focus campaigns on the most profitable customer groups.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Customer-Shopping-Behavior-Analysis/
@@ -230,43 +230,7 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-## 🚀 How to Run the Project
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Python Analysis
-
-```bash
-jupyter notebook
-```
-
-### Execute SQL Scripts
-
-Run the SQL scripts in PostgreSQL/MySQL Workbench.
-
-### Open Power BI Dashboard
-
-Open:
-
-```text
-Customer_Shopping_Dashboard.pbix
-```
-
-in Power BI Desktop.
-
----
-
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -281,13 +245,12 @@ in Power BI Desktop.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Rudra Narayan**
 
-📧 Email: usretherudranarayan@gmail.com
+Email: usretherudranarayan@gmail.com
 
-🔗 GitHub: https://github.com/yourusername
 
 ---
 
